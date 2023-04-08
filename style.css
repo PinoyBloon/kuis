@@ -1,0 +1,18 @@
+header {
+  background-color: #333;
+  color: #fff;
+  font-size: 12px;
+  padding: 10px;
+  text-align: center;
+}
+
+header:hover {
+  background-color: #555;
+  color: #fff;
+}
+
+table {
+    width: 80%;
+    height: auto;
+    border: 0;
+}
