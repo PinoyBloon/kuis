@@ -11,7 +11,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM user ORDER BY id DESC"); // using
 <html>
 <head>
 
-	<title>Beranda</title>
+	<title>Daftar Peserta</title>
   <link rel="stylesheet" href="style.css">
   <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 
