@@ -12,13 +12,12 @@ $result = mysqli_query($mysqli, "SELECT * FROM user ORDER BY id DESC"); // using
 <head>
 
 	<title>Daftar Peserta</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+  	<link rel="stylesheet" href="style.css">
+ 	<link rel='stylesheet' href='https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css'>
 
 </head>
 
 <body>
-
   <header>
     <h1>Daftar Peserta Tour</h1>
     <h2>Malaysia 3D2N</h2>
@@ -51,5 +50,6 @@ $result = mysqli_query($mysqli, "SELECT * FROM user ORDER BY id DESC"); // using
 	  }
 	  ?>
 	  </table>
+	  <img src="img/LoTD.jpg" alt="">
   </body>
 </html>
