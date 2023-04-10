@@ -1,5 +1,5 @@
 # Kuis Pelatihan Pemrograman Web 8 April 2023
-Ini adalah repo dari program Akbar
+Ini adalah repo dari program Akbar yaitu Sistem Pendaftaran dan Pengecekan Peserta Tour Travel
 
 ## How To Use
 Now, to use this, you need some thigs:
